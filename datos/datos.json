@@ -1,0 +1,67 @@
+{
+    "paises": [
+
+        {
+            "nombre": "Argentina",
+            "acercaDe": "La selección de fútbol de Argentina es el equipo representativo de dicho país en las competiciones oficiales. Su organización está a cargo de la Asociación del Fútbol Argentino (AFA), perteneciente a la Conmebol. La Albiceleste jugó el primer partido internacional fuera de Argentina el 16 de mayo de 1901, en Montevideo.",
+            "imagen": "argentina.jpg"
+        },
+        
+        {
+            "nombre": "Bolivia",
+            "acercaDe": "La Selección de fútbol de Bolivia, conocida como La Verde, es el equipo representativo de ese país en las competiciones oficiales de fútbol. Su organización está a cargo de la Federación Boliviana de Fútbol, cuya fundación data del 12 de septiembre de 1925, hace 89 años. Está afiliada a la FIFA desde 1926 y es uno de los miembros de la CONMEBOL desde 1926. Los Altiplanicos jugaron su primer partido el 12 de octubre de 1926 en Santiago, Chile, correspondiente al Campeonato Sudamericano de 1926.",
+            "imagen": "bolivia.jpg"
+        },
+        {
+            "nombre": "Brasil",
+            "acercaDe": "La selección de fútbol del Brasil (Seleção Brasileira de Futebol en portugués) es el equipo que representa a dicho país en las competiciones oficiales. Su organización está a cargo de la Confederación Brasileña de Fútbol, perteneciente a la Confederación Sudamericana de Fútbol (Conmebol). Conocida como «Scratch du Oro», «La Verde-amarela» o «La Canarinha», se encuentra afiliada a la FIFA desde 1923 y es miembro asociado y fundador de la Conmebol desde 1916.",
+            "imagen": "brasil.jpg"
+        },
+        {
+            "nombre": "Chile",
+            "acercaDe": "La selección de fútbol de Chile, conocida en Sudamérica como la Roja,es el equipo representativo de dicho país en las competiciones oficiales de fútbol y una de las selecciones nacionales más antiguas del mundo —disputó su primer partido hace 105 años, el 27 de mayo de 1910 contra Argentina—. Su organización está a cargo de la Federación de Fútbol de Chile, cuya fundación data del 19 de junio de 1895, hace 119 años. Ha estado afiliada a la FIFA desde 1913 y fue uno de los miembros fundadores de la Confederación Sudamericana de Fútbol (Conmebol) en 1916",
+            "imagen": "chile.jpg"
+        },
+         {
+            "nombre": "Colombia",
+            "acercaDe": "La selección de fútbol de Colombia es el equipo representativo de ese país para la práctica de este deporte, los cafeteros están dirigidos por la Federación Colombiana de Fútbol (FCF), la cual está afiliada a la Confederación Sudamericana de Fútbol (CONMEBOL) y la Federación Internacional de Fútbol Asociado (FIFA), por lo que la selección participa en las competencias que estas entidades organizan y juegan. Su primer partido internacional lo disputó en la ciudad de Panamá el 10 de febrero de 1938. Su máximo logro internacional fue la Copa América obtenida en el año 2001",
+            "imagen": "colombia.jpg"
+        },
+         {
+            "nombre": "Ecuador",
+            "acercaDe": "La Selección de fútbol de Ecuador, es el equipo formado por jugadores de nacionalidad ecuatoriana que representa a la República del Ecuador y la Federación Ecuatoriana de Fútbol en las competiciones oficiales organizadas por la Confederación Sudamericana de Fútbol (CONMEBOL) y la Federación Internacional de Fútbol Asociación (FIFA), siendo su primer partido internacional el 8 de agosto de 1938 contra Bolivia, en Bogotá. La escuadra ecuatoriana es conocida dentro de su país como La Tricolor.",
+            "imagen": "ecuador.jpg"
+        },
+         {
+            "nombre": "Jamaica",
+            "acercaDe": "La Selección de fútbol de Jamaica es el representativo nacional de este país. Es controlada por la Federación de Fútbol de Jamaica, perteneciente a la CONCACAF. Sus juegos de local los efectúa habitualmente en el Estadio Nacional de Jamaica, ubicado en las instalaciones de Independence Park. Los Reggae Boyz, han ganado el título de la Copa del Caribe en seis oportunidades y han logrado el subcampeonato en dos ocasiones. Además, la Selección Sub-20 ganó la medalla de plata en los Juegos Panamericanos de 2007 y la de bronce en los XVII Juegos Centroamericanos y del Caribe de 1993.",
+            "imagen": "jamaica.jpg"
+        },
+         {
+            "nombre": "México",
+            "acercaDe": "La Selección de fútbol de México es el equipo masculino representativo del país en las competiciones oficiales. Su organización está a cargo de la Federación Mexicana de Fútbol, la cual está afiliada a la FIFA desde 1929 y es asociación fundadora de la CONCACAF, creada en 1961.  La selección mexicana o el Tri, ha participado en quince ediciones de la Copa Mundial de Fútbol, obteniendo resultados notorios en las competiciones que disputó como anfitrión en 1970 y 1986 donde alcanzó la instancia de los cuartos de final y concluyó en el sexto lugar en ambos torneos.",
+            "imagen": "mexico.jpg"
+        },
+         {
+            "nombre": "Paraguay",
+            "acercaDe": "La selección de fútbol de Paraguay es el equipo representativo del país en las competiciones oficiales de dicho deporte. Su organización está a cargo de la Asociación Paraguaya de Fútbol (APF), perteneciente a la Conmebol. Por lo general, sus partidos como local los juega en el estadio Defensores del Chaco.Los Guaraníes o La Albirroja, como es conocida familiarmente, debido a los colores de la bandera impregnadas en la camiseta, estuvo presente en ocho de las veinte ediciones de la Copa Mundial de Fútbol, el campeonato más importante en el que un seleccionado nacional puede competir.",
+            "imagen": "paraguay.jpg"
+        },
+         {
+            "nombre": "Perú",
+            "acercaDe": "La selección de fútbol del Perú, conocida como Los Incas, es el equipo representativo del país en las competiciones oficiales de fútbol. Su organización está a cargo de la Federación Peruana de Fútbol, la cual es miembro de la Confederación Sudamericana de Fútbol. Su debut se produjo el 1 de noviembre de 1927 ante la selección de Uruguay en el Campeonato Sudamericano de aquel año. Hasta la fecha ha participado en cuatro ediciones de la Copa del Mundo, siendo sus mejores resultados los cuartos de final alcanzados en 1970 (donde ganó el premio al juego limpio)  y 1978, mientras que, a nivel regional, ha sido campeona de la Copa América en 1939 y 1975",
+            "imagen": "peru.jpg"
+        },
+         {
+            "nombre": "Uruguay",
+            "acercaDe": "La Selección de fútbol del Uruguay es el equipo representativo del país en las competiciones oficiales. Su organización está a cargo de la Asociación Uruguaya de Fútbol, perteneciente a la Confederación Sudamericana de Fútbol (CONMEBOL). Es una de las tres selecciones con más copas en la historia del fútbol, con diecinueve títulos oficiales internacionales a nivel de selecciones mayores, contándose quince Copas América, dos Copas del Mundo, y dos medallas olímpicas de oro. En total , La Garra Charrúa, cuenta con cuatro campeonatos del mundo, pues los torneos olímpicos fueron obtenidos en 1924 y 1928, cuando eran considerados campeonatos del mundo por parte de la FIFA",
+            "imagen": "uruguay.jpg"
+        },
+         {
+            "nombre": "Venezuela",
+            "acercaDe": "La selección de fútbol de Venezuela, conocida como La Vinotinto, es el equipo representativo del país en las competiciones oficiales de fútbol. Su organización está a cargo de la Federación Venezolana de Fútbol desde 1926, afiliada a la Federación Internacional de Fútbol Asociación (FIFA) desde 1952 y a la Confederación Sudamericana de Fútbol (Conmebol) desde 1953, siendo la última de las diez federaciones suramericanas en formarse y afiliarse. Su debut se produjo el 12 de febrero de 1938 ante la selección de Panamá en los IV Juegos Centroamericanos y del Caribe de aquel año.",
+            "imagen": "venezuela.jpg"
+        }
+        
+    ]
+}

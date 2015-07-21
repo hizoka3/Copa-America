@@ -1,0 +1,24 @@
+﻿?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "copa.america.chile.dosmilquince.catedra"
+        version   = "1.0.0">
+
+    <name>Copa America Chile 2015</name>
+
+    <description>
+       Aplicación Universitaria para Catedra 3
+    </description>
+
+    <author email="dario.ddwi@gmail.com">
+        Dario Muñoz
+    </author>
+
+   
+
+    <!-- Define app icon for each platform. -->
+    <icon src="icon.png" />
+
+</widget>
